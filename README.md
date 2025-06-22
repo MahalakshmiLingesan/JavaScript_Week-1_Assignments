@@ -1,2 +1,2 @@
-# JavaScript_Week-1_Assignments
+# JavaScript_Assignments
 JavaScript Assignments
